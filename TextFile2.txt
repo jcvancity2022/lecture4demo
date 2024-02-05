@@ -3,3 +3,6 @@ This is text file 2.
 This is lecture4, Learning about VCS. 
 
 
+(Branch2, Student 2, Mary)
+
+Working in Branch 2, adding header to main page
